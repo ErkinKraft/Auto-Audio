@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/🖥️_Windows-10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/🐍_Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/📜_License-MIT-E10600?style=for-the-badge" alt="MIT" />
-  <img src="https://img.shields.io/badge/🎨_UI-Razer--style-121212?style=for-the-badge" alt="Razer Style" />
+
 </p>
 
 <p align="center">
@@ -26,10 +26,11 @@
 
 <p align="center">
   <img src="screen.PNG" alt="AutoAudio - главное окно программы" width="920" />
+
 </p>
 
 <p align="center">
-  <em>Тёмный интерфейс в стиле Razer с красными акцентами</em>
+
 </p>
 
 ---
