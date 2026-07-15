@@ -16,9 +16,7 @@
 
 </p>
 
-<p align="center">
-  👤 Автор: <strong>ErkinKraft</strong>
-</p>
+
 
 ---
 
